@@ -1,0 +1,19 @@
+{
+    "token-data": [
+        {
+            "token": "",
+            "channel": 0,
+            "job": "",
+            "enabled": true
+        }
+    ],
+    "startup": {
+        "autostart": true,
+        "quit_on_invalid": false,
+        "logs": true
+    },
+    "suspicion": {
+        "run": 10800,
+        "pause": 5400
+    }
+}
